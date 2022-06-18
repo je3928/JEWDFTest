@@ -1,0 +1,6 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-3.22/Modules/FindEXPAT.cmake
+C:/Program Files/CMake/share/cmake-3.22/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files/CMake/share/cmake-3.22/Modules/FindPackageMessage.cmake
+C:/Program Files/CMake/share/cmake-3.22/Modules/FindPkgConfig.cmake
+C:/Users/je050/Documents/ASPIK/ALL_SDK/myprojects/vstgui4/vstgui/uidescription/CMakeLists.txt

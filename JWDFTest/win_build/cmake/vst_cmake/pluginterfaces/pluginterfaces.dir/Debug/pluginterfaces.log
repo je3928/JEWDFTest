@@ -1,0 +1,7 @@
+﻿  Building Custom Rule C:/Users/je050/Documents/ASPIK/ALL_SDK/VST_SDK/VST3_SDK/pluginterfaces/CMakeLists.txt
+  conststringtable.cpp
+  coreiids.cpp
+  funknown.cpp
+  ustring.cpp
+  Generating Code...
+  pluginterfaces.vcxproj -> C:\Users\je050\Documents\ASPIK\ALL_SDK\myprojects\JWDFTest\win_build\lib\Debug\pluginterfaces.lib

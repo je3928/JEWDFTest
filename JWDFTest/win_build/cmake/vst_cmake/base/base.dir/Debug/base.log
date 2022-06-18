@@ -1,0 +1,14 @@
+﻿  Building Custom Rule C:/Users/je050/Documents/ASPIK/ALL_SDK/VST_SDK/VST3_SDK/base/CMakeLists.txt
+  baseiids.cpp
+  fbuffer.cpp
+  fdebug.cpp
+  fdynlib.cpp
+  fobject.cpp
+  fstreamer.cpp
+  fstring.cpp
+  timer.cpp
+  updatehandler.cpp
+  fcondition.cpp
+  flock.cpp
+  Generating Code...
+  base.vcxproj -> C:\Users\je050\Documents\ASPIK\ALL_SDK\myprojects\JWDFTest\win_build\lib\Debug\base.lib

@@ -1,0 +1,10 @@
+^C:\USERS\JE050\DOCUMENTS\ASPIK\ALL_SDK\MYPROJECTS\JWDFTEST\WIN_BUILD\CMAKEFILES\F8E1588AC018EA3BD06C99640BA7A513\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/je050/Documents/ASPIK/ALL_SDK/myprojects/JWDFTest -BC:/Users/je050/Documents/ASPIK/ALL_SDK/myprojects/JWDFTest/win_build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/je050/Documents/ASPIK/ALL_SDK/myprojects/JWDFTest/win_build/JWDFTest_UNIVERSAL.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

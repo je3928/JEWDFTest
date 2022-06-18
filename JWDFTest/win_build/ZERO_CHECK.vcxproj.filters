@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\je050\Documents\ASPIK\ALL_SDK\myprojects\JWDFTest\win_build\CMakeFiles\f8e1588ac018ea3bd06c99640ba7a513\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{21B32459-5F8A-3E02-8266-9F500E024609}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
